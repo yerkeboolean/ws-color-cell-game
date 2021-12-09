@@ -1,0 +1,1 @@
+This is multiplayer game for max 3 player, goal is to tap all cell until it become your color
